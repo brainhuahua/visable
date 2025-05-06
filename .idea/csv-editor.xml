@@ -17,6 +17,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\data\Data_SubmitRecord\SubmitRecord-Class10.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\data\Data_SubmitRecord\SubmitRecord-Class15.csv">
           <value>
             <Attribute>
